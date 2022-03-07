@@ -1,0 +1,29 @@
+.App{
+    font-family: 'mother-nature-regular', cursive;
+}
+.relative.items-center.justify-between.bg-pack-train.px-8.py-3.mb-3{
+    height: 1177px;
+}
+.grid.grid-cols-8.px-8{
+    height: 550px;
+}
+.col-span-4.text-black.text-4xl.flex.justify-center.pt-10.bg-pink-300.rounded-lg {
+    height: 550px;
+}
+
+.gradient {
+    background: #a8c0ff; 
+    background: -webkit-linear-gradient(to right, #f0abfc, #d8b4fe);
+    background: linear-gradient(to right, #f0abfc, #d8b4fe); 
+
+}
+.relative.leading-normal.tracking-normal.text-white.gradient.vsc-initialized{
+    height: 664px;
+}
+.flex.space-x-5.float-right{
+    margin-right: 40px;
+}
+footer{
+    height: 600px;
+}
+
