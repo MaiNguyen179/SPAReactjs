@@ -2,7 +2,7 @@ import React from 'react';
 import { BsFlower1 } from "react-icons/bs";
 export default function NavBar() {
     return (
-        <div className="relative items-center justify-between bg-pack-train px-8 py-3 mb-3">
+        <div className="relative items-center justify-between bg-pack-train px-8 py-3 mb-3 h-screen">
             <nav className="relative flex flex-wrap items-center justify-between px-8 py-3 bg-inherit mb-3">
                 <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
                     <div className="w-full contents justify-between lg:w-auto lg:static lg:justify-start" id="home">

@@ -1,9 +1,7 @@
 .App{
     font-family: 'mother-nature-regular', cursive;
 }
-.relative.items-center.justify-between.bg-pack-train.px-8.py-3.mb-3{
-    height: 1177px;
-}
+
 .grid.grid-cols-8.px-8{
     height: 550px;
 }
